@@ -12,29 +12,22 @@ redirect_from:
 Education
 ======
 * B.Sc. in Mathematics, The University of Hong Kong, 2016-2020
-* M.Sc. in Mathematics, The University of Paris Saclay, 2020-2022
+* M.Sc. in Mathematics, Université Paris-Saclay, 2020-2022
 
-Work experience
+Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2021 
+  * Université Paris-Saclay
+  * Topics: 
   * Supervisor: 
 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+#Publications
+#======
+# <ul>{% for post in site.publications %}
+# {% include archive-single-cv.html %} 
+# {% endfor %}</ul>
   
 Talks
 ======
